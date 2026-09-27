@@ -1,0 +1,14 @@
+{
+  "capacity_error_code": "E_BAD_CAPACITY",
+  "rate_error_code": "E_BAD_RATE",
+  "event_error_code": "E_BAD_EVENT",
+  "capacity": 5,
+  "rate": 2,
+  "events": [
+    { "gap": 0, "want": 3 },
+    { "gap": 1, "want": 4 },
+    { "gap": 0, "want": 5 },
+    { "gap": 2, "want": 2 },
+    { "gap": 0, "want": 9 }
+  ]
+}
